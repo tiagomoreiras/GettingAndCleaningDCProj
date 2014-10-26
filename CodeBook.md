@@ -67,13 +67,13 @@ The submited ```run_analysis.R``` script executes the following steps to clean t
 
 _Require ```reshape2``` and ```data.table``` libraries to guarantee that the script loads the necessary dependencies._
 
-** 1. Merges the training and the test sets to create one data set.**
+**1. Merges the training and the test sets to create one data set.**
 
 	1. Load X Train Data
 	2. Load X Test Data
 	3. Merge Train and Test Data Set
 
-** 2. Extracts only the measurements on the mean and standard deviation for each measurement.**
+**2. Extracts only the measurements on the mean and standard deviation for each measurement.**
 
 	1. Load Features Names
 	2. Labels data Appropriately
