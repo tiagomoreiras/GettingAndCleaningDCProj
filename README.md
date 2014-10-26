@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting and Cleaning Data Project
 
 ## Coursera Final Course Project
@@ -20,9 +19,3 @@ The objective of the presented work is to create one R script called ```run_anal
 ## Package Dependencies
 
 ```run_analysis.R``` depends on ```reshape2``` and ```data.table```. If you have an active internet connection the script will install the needed dependencies automatically.
-=======
-GettingAndCleaningDCProj
-========================
-
-Getting and Cleaning Data Course Project Coursera
->>>>>>> c89260a941850fc21beb6816b5459efd6b7e6f05
